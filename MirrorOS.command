@@ -6,6 +6,8 @@
 #  Created by Edoardo Scarpel on 16/08/16.
 #
 
-cd /Users/Administrator/Documents/Mirror
+cd
+
+cd Mirror
 
 npm start

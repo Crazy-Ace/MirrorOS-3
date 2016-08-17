@@ -6,11 +6,11 @@
 #  Created by Edoardo Scarpel on 17/08/16.
 #
 
-cd /Users/Administrator/Documents
+cd
 
 git clone https://github.com/EdoAle/Mirror
 
-cd /Users/Administrator/Documents/Mirror
+cd Mirror
 
 npm install
 

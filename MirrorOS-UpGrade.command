@@ -5,7 +5,8 @@
 #
 #  Created by Edoardo Scarpel on 17/08/16.
 #
+cd
 
-cd /Users/Administrator/Documents/Mirror
+cd Mirror
 
 git pull
